@@ -1,0 +1,18 @@
+{
+  "760940039609253899": {
+    "anti_link": true,
+    "anti_spam": true,
+    "anti_caps": true,
+    "blacklist": [
+      "discord nitro free",
+      "free steam",
+      "scam"
+    ],
+    "automod_warn_threshold": 3,
+    "log_channel_id": 1479440543816613959,
+    "ticket_category_id": 1487133590381662218,
+    "level_roles": {
+      "10": 1390809058621128784
+    }
+  }
+}
